@@ -5,7 +5,9 @@
   "license": "MIT",
   "scripts": {
     "day-01/1": "node day-01/part-1.js",
-    "day-01/2": "node day-01/part-2.js"
+    "day-01/2": "node day-01/part-2.js",
+    "day-02/1": "node day-02/part-1.js",
+    "day-02/2": "node day-02/part-2.js"
   },
   "devDependencies": {
     "@types/node": "^20.10.1"
