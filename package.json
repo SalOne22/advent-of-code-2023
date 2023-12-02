@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "day-01/1": "node day-01/part-1.js",
+    "day-01/2": "node day-01/part-2.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
